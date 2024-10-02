@@ -1,32 +1,32 @@
-# Python
-*.pyc
-*~
-__pycache__
+# # Python
+# *.pyc
+# *~
+# __pycache__
 
-# Env
-.env
-myvenv/
-venv/
+# # Env
+# .env
+# myvenv/
+# venv/
 
-# Database (locale) in cui sono archiviati post e utenti
-db.sqlite3
+# # Database (locale) in cui sono archiviati post e utenti
+# db.sqlite3
 
-# Static folder at project root
-/static/
+# # Static folder at project root
+# /static/
 
-# macOS
-._*
-.DS_Store
-.fseventsd
-.Spotlight-V100
+# # macOS
+# ._*
+# .DS_Store
+# .fseventsd
+# .Spotlight-V100
 
-# Windows
-Thumbs.db*
-ehthumbs*.db
-[Dd]esktop.ini
-$RECYCLE.BIN/
+# # Windows
+# Thumbs.db*
+# ehthumbs*.db
+# [Dd]esktop.ini
+# $RECYCLE.BIN/
 
-# Visual Studio
-.vscode/
-.history/
-*.code-workspace
+# # Visual Studio
+# .vscode/
+# .history/
+# *.code-workspace
